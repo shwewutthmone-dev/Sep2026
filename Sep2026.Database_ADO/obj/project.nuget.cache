@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "NtX+soK/3ZQ=",
+  "dgSpecHash": "nkDtAA5lEoY=",
   "success": true,
   "projectFilePath": "/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.Database_ADO/Sep2026.Database_ADO.csproj",
   "expectedPackageFiles": [
+    "/Users/shwewutthmone/.nuget/packages/bouncycastle.cryptography/2.6.2/bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/google.protobuf/3.35.0/google.protobuf.3.35.0.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/k4os.compression.lz4/1.3.8/k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/k4os.compression.lz4.streams/1.3.8/k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/k4os.hash.xxhash/1.0.8/k4os.hash.xxhash.1.0.8.nupkg.sha512",
     "/Users/shwewutthmone/.nuget/packages/microsoft.bcl.cryptography/9.0.18/microsoft.bcl.cryptography.9.0.18.nupkg.sha512",
     "/Users/shwewutthmone/.nuget/packages/microsoft.data.sqlclient/7.1.1/microsoft.data.sqlclient.7.1.1.nupkg.sha512",
     "/Users/shwewutthmone/.nuget/packages/microsoft.data.sqlclient.extensions.abstractions/7.1.1/microsoft.data.sqlclient.extensions.abstractions.7.1.1.nupkg.sha512",
@@ -22,12 +27,16 @@
     "/Users/shwewutthmone/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.16.0/microsoft.identitymodel.protocols.openidconnect.8.16.0.nupkg.sha512",
     "/Users/shwewutthmone/.nuget/packages/microsoft.identitymodel.tokens/8.16.0/microsoft.identitymodel.tokens.8.16.0.nupkg.sha512",
     "/Users/shwewutthmone/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
-    "/Users/shwewutthmone/.nuget/packages/system.configuration.configurationmanager/9.0.18/system.configuration.configurationmanager.9.0.18.nupkg.sha512",
-    "/Users/shwewutthmone/.nuget/packages/system.diagnostics.eventlog/9.0.18/system.diagnostics.eventlog.9.0.18.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/mysql.data/26.7.0/mysql.data.26.7.0.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/system.configuration.configurationmanager/10.0.8/system.configuration.configurationmanager.10.0.8.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/system.diagnostics.eventlog/10.0.8/system.diagnostics.eventlog.10.0.8.nupkg.sha512",
     "/Users/shwewutthmone/.nuget/packages/system.identitymodel.tokens.jwt/8.16.0/system.identitymodel.tokens.jwt.8.16.0.nupkg.sha512",
     "/Users/shwewutthmone/.nuget/packages/system.security.cryptography.pkcs/9.0.18/system.security.cryptography.pkcs.9.0.18.nupkg.sha512",
-    "/Users/shwewutthmone/.nuget/packages/system.security.cryptography.protecteddata/9.0.18/system.security.cryptography.protecteddata.9.0.18.nupkg.sha512",
-    "/Users/shwewutthmone/.nuget/packages/system.threading.ratelimiting/9.0.18/system.threading.ratelimiting.9.0.18.nupkg.sha512"
+    "/Users/shwewutthmone/.nuget/packages/system.security.cryptography.protecteddata/10.0.8/system.security.cryptography.protecteddata.10.0.8.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/system.security.permissions/10.0.8/system.security.permissions.10.0.8.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/system.threading.ratelimiting/9.0.18/system.threading.ratelimiting.9.0.18.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/system.windows.extensions/10.0.8/system.windows.extensions.10.0.8.nupkg.sha512",
+    "/Users/shwewutthmone/.nuget/packages/zstdsharp.port/0.8.8/zstdsharp.port.0.8.8.nupkg.sha512"
   ],
   "logs": [
     {

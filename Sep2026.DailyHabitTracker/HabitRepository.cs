@@ -5,9 +5,9 @@ namespace Sep2026.DailyHabitTracker;
 
 public sealed class HabitRepository
 {
-    private string _filePath;
+    private string filePath;
 
-    private JsonSerializerOptions _options = new()
+    private JsonSerializerOptions options = new()
     {
         WriteIndented = true,
         Converters = { new JsonStringEnumConverter() }
@@ -15,19 +15,19 @@ public sealed class HabitRepository
 
     public HabitRepository(string filePath)
     {
-        _filePath = filePath;
+        this.filePath = filePath;
     }
 
     public List<HabitDto> LoadFile()
     {
-        if (!File.Exists(_filePath))
+        if (!File.Exists(filePath))
         {
             return [];
         }
 
         try
         {
-            return JsonSerializer.Deserialize<List<HabitDto>>(File.ReadAllText(_filePath), _options) ?? [];
+            return JsonSerializer.Deserialize<List<HabitDto>>(File.ReadAllText(filePath), options) ?? [];
         }
         catch (JsonException exception)
         {
@@ -37,15 +37,15 @@ public sealed class HabitRepository
 
     public void SaveFile(IEnumerable<HabitDto> habits)
     {
-        var directory = Path.GetDirectoryName(_filePath);
+        var directory = Path.GetDirectoryName(filePath);
         if (!string.IsNullOrEmpty(directory))
         {
             Directory.CreateDirectory(directory);
         }
 
-        var temporaryFile = _filePath + ".tmp";
-        File.WriteAllText(temporaryFile, JsonSerializer.Serialize(habits, _options));
-        File.Move(temporaryFile, _filePath, true);
+        var temporaryFile = filePath + ".tmp";
+        File.WriteAllText(temporaryFile, JsonSerializer.Serialize(habits, options));
+        File.Move(temporaryFile, filePath, true);
     }
 
 }

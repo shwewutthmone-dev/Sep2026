@@ -48,6 +48,10 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[7.1.1, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[26.7.0, )"
             }
           },
           "imports": [

@@ -1,0 +1,21 @@
+[
+  {
+    "Id": 1,
+    "Name": "Learn C#",
+    "Description": "asp.net training",
+    "CreatedOn": "2026-10-18",
+    "IsArchived": false,
+    "ScheduledDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "CheckIns": [
+      "2026-10-18"
+    ]
+  }
+]

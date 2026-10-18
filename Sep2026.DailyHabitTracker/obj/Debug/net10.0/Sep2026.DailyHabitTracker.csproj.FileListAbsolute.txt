@@ -58,3 +58,4 @@
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.DailyHabitTracker/obj/Debug/net10.0/Sep2026.DailyHabitTracker.pdb
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.DailyHabitTracker/obj/Debug/net10.0/Sep2026.DailyHabitTracker.genruntimeconfig.cache
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.DailyHabitTracker/obj/Debug/net10.0/ref/Sep2026.DailyHabitTracker.dll
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.DailyHabitTracker/obj/Debug/net10.0/Sep2026.DailyHabitTracker.sourcelink.json
