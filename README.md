@@ -7,3 +7,5 @@ EFCore (ORM)
 
 
 ORM => databae table နဲ့ object ကြား mapping လုပ်
+
+https://mind-reader-seven-card.susanshwe123.chatgpt.site
