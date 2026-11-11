@@ -7,6 +7,7 @@
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.AssemblyInfoInputs.cache
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.AssemblyInfo.cs
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.sourcelink.json
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.dll
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/refint/Sep2026.ConsoleApp1.dll
 /Users/shwewutthmone/Documents/CSharp/Sep2026/Sep2026.ConsoleApp1/obj/Debug/net10.0/Sep2026.ConsoleApp1.pdb

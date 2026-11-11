@@ -2,8 +2,8 @@
   {
     "Id": 1,
     "Name": "Learn C#",
-    "Description": "asp.net training",
-    "CreatedOn": "2026-10-18",
+    "Description": "C# console app",
+    "CreatedOn": "2026-10-01",
     "IsArchived": false,
     "ScheduledDays": [
       "Monday",
@@ -15,7 +15,42 @@
       "Sunday"
     ],
     "CheckIns": [
+      "2026-10-02",
+      "2026-10-03",
+      "2026-10-04",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
       "2026-10-18"
     ]
+  },
+  {
+    "Id": 2,
+    "Name": "Drink Water",
+    "Description": "",
+    "CreatedOn": "2026-10-12",
+    "IsArchived": false,
+    "ScheduledDays": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "CheckIns": []
+  },
+  {
+    "Id": 3,
+    "Name": "Daily todo list",
+    "Description": "",
+    "CreatedOn": "2026-10-13",
+    "IsArchived": false,
+    "ScheduledDays": [
+      "Monday",
+      "Tuesday"
+    ],
+    "CheckIns": []
   }
 ]

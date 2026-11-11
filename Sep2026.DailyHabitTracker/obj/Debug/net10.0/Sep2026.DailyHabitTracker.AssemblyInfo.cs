@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sep2026.DailyHabitTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c49ac26cdc0f827dc800b9573a38ecaf5e09af09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2eac10b18332a80d0539a443008895b3d3b76e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sep2026.DailyHabitTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sep2026.DailyHabitTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

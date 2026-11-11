@@ -2,8 +2,16 @@ using System.Globalization;
 namespace Sep2026.DailyHabitTracker;
 public class HabitTrackerApp
 {
-    private static DayOfWeek[] AllDays = [DayOfWeek.Monday, DayOfWeek.Tuesday, DayOfWeek.Wednesday,
-        DayOfWeek.Thursday, DayOfWeek.Friday, DayOfWeek.Saturday, DayOfWeek.Sunday];
+    private static DayOfWeek[] AllDays = 
+    [ 
+        DayOfWeek.Monday, 
+        DayOfWeek.Tuesday, 
+        DayOfWeek.Wednesday,
+        DayOfWeek.Thursday, 
+        DayOfWeek.Friday, 
+        DayOfWeek.Saturday, 
+        DayOfWeek.Sunday
+    ];
     private HabitRepository habitRepo;
     private HabitService service;
 
