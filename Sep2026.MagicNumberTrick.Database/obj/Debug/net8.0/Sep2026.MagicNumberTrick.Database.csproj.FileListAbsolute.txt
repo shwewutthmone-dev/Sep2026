@@ -1,0 +1,14 @@
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/bin/Debug/net8.0/Sep2026.MagicNumberTrick.Database.deps.json
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/bin/Debug/net8.0/Sep2026.MagicNumberTrick.Database.runtimeconfig.json
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/bin/Debug/net8.0/Sep2026.MagicNumberTrick.Database.dll
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/bin/Debug/net8.0/Sep2026.MagicNumberTrick.Database.pdb
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.csproj.AssemblyReference.cache
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.AssemblyInfoInputs.cache
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.AssemblyInfo.cs
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.csproj.CoreCompileInputs.cache
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.dll
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/refint/Sep2026.MagicNumberTrick.Database.dll
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.pdb
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/Sep2026.MagicNumberTrick.Database.genruntimeconfig.cache
+/Users/shwewutthmone/Documents/Codex/2026-11-11/sit/outputs/Sep2026.MagicNumberTrick/Sep2026.MagicNumberTrick.Database/obj/Debug/net8.0/ref/Sep2026.MagicNumberTrick.Database.dll
